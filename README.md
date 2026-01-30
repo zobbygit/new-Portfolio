@@ -17,8 +17,6 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 
 ## Demo
 
-![Portfolio Demo](https://i.postimg.cc/Dfr5jCQp/Screenshot-2025-01-02-120901.png)
-
 ![Portfolio Demo](./Screenshot_20260130-233120_Chrome.jpg)
 
 ---
@@ -26,7 +24,7 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 ## Live Preview
 
 Check out the live preview of the portfolio website here:  
-[**Live Demo**](https://codervai.vercel.app/)
+[**Live Demo**](https://my-portfolio-sable-five-48.vercel.app/)
 ---
 ### 🎯 Project Structure
 ```bash
@@ -153,7 +151,7 @@ You will need to download **Git** and **Node** to run this project.
 2. After forking, open your terminal and run the following commands to clone the repo:
 
   ```bash
-  git clone https://github.com/seraprogrammer/portfolio.git
+  git clone https://github.com/zobbygit/new-Portfolio.git
   ```
 Navigate to the Project Directory 📂
 Once the repository is cloned, change your directory to the project folder:
@@ -175,6 +173,11 @@ npm run dev
 
 View the Project 🌐
 Open your browser and visit http://localhost:5173/ to see the result! 🎉
+
+.env file add in the Root Directory 
+VITE_WEB_FORM=""
+
+You can take the api key from Web3Forms for free and app in the .env file
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.

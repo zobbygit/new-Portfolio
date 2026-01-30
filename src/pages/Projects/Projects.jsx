@@ -47,8 +47,8 @@ const projects = [
     "A modern, responsive personal portfolio website built with React and Tailwind CSS. Showcases projects, skills, and experience with smooth animations and an integrated email/contact form system for direct communication.",
   src: portfolio, // replace with your portfolio image import if different
   color: "#ed649e",
-  githubLink:"",
-  liveLink: "",
+  githubLink:"https://github.com/zobbygit/new-Portfolio",
+  liveLink: "https://my-portfolio-sable-five-48.vercel.app/",
 },
 {
   title: "💰 Expense Tracker",

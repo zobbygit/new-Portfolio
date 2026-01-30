@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="80px" viewBox="0 0 320 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>StayCation Logo Green Theme Home</title>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-green">
+            <stop stop-color="#42D392" offset="0%"></stop>
+            <stop stop-color="#28B463" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Logo-Group-Green" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(10.000000, 5.000000)">
+            <path d="M35,0 C15.6700338,0 0,15.6700338 0,35 C0,52.5 26.25,70 35,70 C43.75,70 70,52.5 70,35 C70,15.6700338 54.3299662,0 35,0 Z" id="Pin-Shape" fill="url(#linearGradient-green)"></path>
+            
+            <path d="M35,22 L17,38 L17,56 L27,56 L27,44 L43,44 L43,56 L53,56 L53,38 L35,22 Z M43,56 L27,56 L27,46 L43,46 L43,56 Z" id="Home-Shape" fill="#FFFFFF"></path>
+        </g>
+        
+        <text id="StayCation-Text" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="40" font-weight="bold" letter-spacing="-1.2" fill="#0B3B24">
+            <tspan x="90" y="55">StayCation</tspan>
+        </text>
+    </g>
+</svg>
